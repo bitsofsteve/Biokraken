@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: ' Bioscience ⋃ Computers Science'
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: ' Bio-science ⋃ Computer Science'
+image: /img/header_3.jpg
+heading: A Perfect Union
 subheading: 'Always Questions, Always Wonder'
 mainpitch:
   title: Why Kaldi
