@@ -5,17 +5,18 @@ image: /img/header_3.jpg
 heading: A Perfect Union
 subheading: 'Always Questions, Always Wonder'
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Biokraken?
+  description: >-
+    Hey there, fellow journey(man, woman, person) :), here I share my thought
+    process, tactics, tutorials and literally all I know about biocomputing,
+    health care technology, genomics data processing, precision medicine, deep
+    learning, machine intelligence, and core computer science. It's a bit of
+    weird blend, yeah? I hope you have fun reading through these raggedy
+    thoughts of mine. :)
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  I hope to teach fellow biological & clinical-scientists/{insert your
+  profession} how to make computer work for them. It'll come as stories,
+  scenarios and crude thoughts. 
 intro:
   blurbs:
     - image: /img/coffee.png
