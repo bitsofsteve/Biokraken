@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: ' Bio-science ⋃ Computer Science'
+title: ' Bio-Science ⋃ Computer Science'
 image: /img/header_3.jpg
 heading: A Perfect Union
 subheading: 'Always Questions, Always Wonder'
