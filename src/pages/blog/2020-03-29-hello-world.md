@@ -10,7 +10,7 @@ tags:
     Biologists Python Clinical Genome Sequencing Programming Computer Science
     Biokraken
 ---
-![Bacteria Code](/img/mit-program-bacteria_0.jpg "MIT Program Bacteria ")
+![](/img/mit-program-bacteria_0.jpg "MIT Program Bacteria ")
 
 ```python
 from Bio import Seq10
