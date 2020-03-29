@@ -12,12 +12,6 @@ tags:
 ---
 ![Bacteria Code](/img/mit-program-bacteria_0.jpg "MIT Program Bacteria ")
 
-
-
-
-
-Hello World
-
 ```python
 from Bio import Seq10
 
@@ -25,11 +19,20 @@ for seq_record in Seq10.parse("ls_orchid.gbk", "genbank"):
     print(seq_record.id)
     print(repr(seq_record.seq))
     print(len(seq_record.id))
+    
+    
+Z78533.1
+Seq('CGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTGATGAGACCGTGG...CGC', IUPACAmbiguousDNA())
+740
+...
+Z78439.1
+Seq('CATTGTTGAGATCACATAATAATTGATCGAGTTAATCTGGAGGATCTGTTTACT...GCC', IUPACAmbiguousDNA())
+592
 
 
  
 ```
 
-```python
-print("hello world")
-```
+Sarah is a biology major, this semester she's encountering biological computing for the first time this semester.
+
+She's never written a line of `code` before, of course she's heard of python, java, docker, cloud computers, oh even the good old compilers.
